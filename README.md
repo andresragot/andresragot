@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there!
+
+I´m Andrés Ragot, A Videogame developer always wanting to know more and more about coding.
+
+Here are some things about me:
+
+  - 🌱 I’m currently learning Unreal Engine
+  - 📫 How to reach me: andresragot99@gmail.com
+  - 🌎 I speak English, Spanish and French
+  - 🎮 [Build Games](https://andresragot.itch.io/)
+
 
 <!--
 **andresragot/andresragot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
