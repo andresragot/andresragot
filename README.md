@@ -52,13 +52,15 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i><a href="https://github.com/andresragot/RanasRatas">Remake of 'Ranas Insanas'</a></i>:<ul><li>An online platformer game built in Unity (Under construction)</li></ul></li>
+	<li><i><a href="https://github.com/andresragot/RanasRatas">Remake of 'Ranas Insanas'</a></i>:<ul><li>An online platformer game built in Unity (Under construction) (Code not the remake)</li></ul></li>
 	<li><i><a href="https://github.com/andresragot/PlayerMovementUnreal">PlayerMovement in Unreal</a></i>:<ul><li>Code for an third person RPG movement in Unreal Engine with wall running, crouching, sliding, dashing, ground pounding, etc... (Under construction)</li></ul></li>
 </ul>
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
 I´m Andrés Ragot, A Videogame developer always wanting to know more and more about coding.
+
+I started this journey as a programmer watching videos in youtube back in 2014. then adventouring myself to the [INSA de Lyon ](https://www.insa-lyon.fr/en/) for then afterwards studying videogame developing at [UDIT](https://udit.es/estudios/grado-oficial/diseno-y-desarrollo-de-videojuegos/).
 
 Here are some things about me:
 
