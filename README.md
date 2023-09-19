@@ -7,7 +7,7 @@ Here are some things about me:
   - 🌱 I’m currently learning Unreal Engine
   - 📫 How to reach me: andresragot99@gmail.com
   - 🌎 I speak English, Spanish and French
-  - 🎮 [Build Games](https://andresragot.itch.io/)
+  - 🎮 [Built Games](https://andresragot.itch.io/)
 
 
 <!--
