@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there!;I'm+Andrés+Ragot.;I+love+Unity;I+love+Unreal;I+lov+learning;I+love+video+games.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there!;I'm+Andrés+Ragot.;I+love+Unity;I+love+Unreal;I+love+learning;I+love+video+games.;&center=true&width=500&height=50"></a>
 </p>
-
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=#000000">
@@ -37,6 +36,20 @@
 	</a>
 </div>
 </p>
+<h1><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">Statistics</h1>
+<p align="left">
+  <a href="https://www.andresragot.github.io/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andresragot&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andresragot&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
+<p align="center">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresragot&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
 I´m Andrés Ragot, A Videogame developer always wanting to know more and more about coding.
 
 Here are some things about me:
