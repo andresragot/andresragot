@@ -1,5 +1,40 @@
 ### Hello there!
 
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=#000000">
+  <img src="https://img.shields.io/badge/Unreal Engine-1D1931.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=#00599C">
+  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
+</p>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+</div>
+</p>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+</div>
+</p>
+<p align="center">Contact me:</p>
+<p>
+<div align="center">
+	<a href="https://www.linkedin.com/in/andr%C3%A9s-alejandro-ragot-padra-3065a5241/" rel="nofollow">
+  		<img alt="Andrés Ragot's LinkedIn" width="200px" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2">
+	</a>
+</div>
+</p>
 I´m Andrés Ragot, A Videogame developer always wanting to know more and more about coding.
 
 Here are some things about me:
