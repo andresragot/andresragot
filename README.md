@@ -54,7 +54,7 @@
 <ul>	
 	<li><i><a href="https://int2games.github.io">Tailless</a></i>:<ul><li>A roguelike developped in Unreal Engine 5.4 and presented at PlayGeneration Córdoba 2024. In charge of all programming aspects</li></ul></li>
 	<li><i><a href="https://github.com/andresragot/RanasRatas">Remake of 'Ranas Insanas'</a></i>:<ul><li>An online platformer game built in Unity (Under construction) (Code not the remake)</li></ul></li>
-	<li><i><a href="https://singularthings.io/en/">SingularThings</a></i>:<ul><li>Currently working here.</li></ul></li>
+	<li><i><a href="https://singularthings.io/en/">SingularThings</a></i>:<ul><li>Currently working here as a Firmware and Software developer.</li></ul></li>
 </ul>
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
