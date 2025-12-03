@@ -31,7 +31,7 @@
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
-	<a href="https://www.linkedin.com/in/andr%C3%A9s-alejandro-ragot-padra-3065a5241/" rel="nofollow">
+	<a href="https://www.linkedin.com/in/andr%C3%A9s-alejandro-ragot-3065a5241/" rel="nofollow">
   		<img alt="Andrés Ragot's LinkedIn" width="200px" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2">
 	</a>
 </div>
@@ -52,7 +52,7 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>	
-	<li><i><a href="https://int2games.github.io">Tailless</a></i>:<ul><li>A roguelike developped in Unreal Engine 5.4 and presented at PlayGeneration Córdoba 2024. In charge of all programming aspects</li></ul></li>
+	<li><i><a href="https://int2games.github.io">Tailless</a></i>:<ul><li>A roguelike developped in Unreal Engine 5.6 and presented at PlayGeneration Córdoba 2024. In charge of all programming aspects</li></ul></li>
 	<li><i><a href="https://github.com/andresragot/RanasRatas">Remake of 'Ranas Insanas'</a></i>:<ul><li>An online platformer game built in Unity (Under construction) (Code not the remake)</li></ul></li>
 	<li><i><a href="https://orbis.es/en/">ORBIS</a></i>:<ul><li>Currently working here as a Firmware and Software developer.</li></ul></li>
 	<li><i><a href="https://singularthings.io/en/">SingularThings</a></i>:<ul><li>Previously worked here as a Firmware and Software developer.</li></ul></li>
@@ -66,7 +66,7 @@ I started this journey as a programmer watching videos in youtube back in 2014. 
 
 Here are some things about me:
 
-  - 🌱 I’m currently learning Unreal Engine
+  - 🌱 I’m currently learning Vulkan
   - 📫 How to reach me: andresragot99@gmail.com
   - 🌎 I speak English, Spanish and French
   - 🎮 [Built Games](https://andresragot.itch.io/)
